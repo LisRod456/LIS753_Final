@@ -78,15 +78,15 @@ footer#contact-info{
 
 @media all and (min-width: 768px) {
     h1#article-title{
-        font-size: 40pt;
+        font-size: 24pt;
     }
     p{
         font-size: 14pt;
     }
     ul li a{
-        font-size: 20pt; 
+        font-size: 14pt; 
     }
     h2.section-header{
-        font-size: 20pt;
+        font-size: 16pt;
     }
 }
