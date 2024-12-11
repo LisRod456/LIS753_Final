@@ -56,7 +56,7 @@ footer#contact-info{
     ul{
         list-style: none;
         display: flex;
-        justify-content: center;
+        justify-content: left;
         gap: 10px;
     }
 }
