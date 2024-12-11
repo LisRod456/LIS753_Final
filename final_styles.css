@@ -9,7 +9,7 @@ article figure img{
     padding: 10px;
 }
 h1#article-title{
-    text-align: center;
+    text-align: left;
     font-family: Georgia;
     font-size: 24pt;
     color: white;
@@ -17,7 +17,7 @@ h1#article-title{
 }
 h2.section-header{
     font-family: Georgia;
-    font-style: italic;
+    font-style: bold;
     font-size: 16pt;
     color: white;
     background-color:#0D47A1;
@@ -36,6 +36,8 @@ ul li{
     color: black;
     font-size: 12pt;
     background-color: #E4EAF4;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 ul li:first-child{
     border-top: 3px solid #0D47A1;
