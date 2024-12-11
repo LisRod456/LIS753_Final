@@ -52,3 +52,41 @@ footer#contact-info{
     font-family: Helvetica;
     font-size: 12pt;
 }
+@media all and (min-width: 376px) {
+    ul{
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+}
+
+@media all and (min-width: 376px) {
+    h1#article-title{
+        font-size: 20pt;
+    }
+    p{
+        font-size: 10pt;
+    }
+    ul li a{
+        font-size: 10pt;
+    }
+    h2.section-header{
+        font-size: 14pt;
+    }
+}
+
+@media all and (min-width: 768px) {
+    h1#article-title{
+        font-size: 40pt;
+    }
+    p{
+        font-size: 14pt;
+    }
+    ul li a{
+        font-size: 20pt; 
+    }
+    h2.section-header{
+        font-size: 20pt;
+    }
+}
