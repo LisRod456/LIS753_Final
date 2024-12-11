@@ -1,0 +1,50 @@
+article figure img{
+    width: 600px;
+    height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: 5px solid #3C7B19;
+    padding: 10px;
+}
+h1#article-title{
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 24pt;
+    color: white;
+    background-color: #3C7B19;
+}
+h2.section-header{
+    font-family: Helvetica;
+    font-style: italic;
+    font-size: 16pt;
+    color: white;
+    background-color:#3C7B19;
+    text-align: left;
+}
+p{
+    text-align: center;
+    font-family: Arial;
+    color: black;
+    font-size: 12pt;
+    background-color: #D9F3CA; 
+}
+ul li{
+    text-align: left;
+    font-family: Arial;
+    color: black;
+    font-size: 12pt;
+    background-color: #D9F3CA;
+}
+ul li:first-child{
+    border-top: 3px solid #3C7B19;
+}
+ul li:last-child{
+    border-bottom: 3px solid #3C7B19;
+}
+footer#contact-info{
+    color: white;
+    font-family: Helvetica;
+    font-size: 12pt;
+}
