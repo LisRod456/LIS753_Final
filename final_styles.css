@@ -40,25 +40,15 @@ ul li{
     background-color: #E4EAF4;
     padding-top: 5px;
     padding-bottom: 5px;
-}
-ul li:first-child{
     border-top: 3px solid #0D47A1;
-}
-ul li:last-child{
     border-bottom: 3px solid #0D47A1;
+}
+    
 }
 footer#contact-info{
     color: white;
     font-family: Helvetica;
     font-size: 12pt;
-}
-@media all and (min-width: 376px) {
-    ul{
-        list-style: none;
-        display: flex;
-        justify-content: left;
-        gap: 10px;
-    }
 }
 
 @media all and (min-width: 376px) {
