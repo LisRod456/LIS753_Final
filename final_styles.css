@@ -33,6 +33,7 @@ p{
     background-color: #E4EAF4; 
 }
 ul li{
+    list-style: none;
     text-align: left;
     font-family: Helvetica;
     color: black;
@@ -40,8 +41,7 @@ ul li{
     background-color: #E4EAF4;
     padding-top: 5px;
     padding-bottom: 5px;
-    border-top: 3px solid #0D47A1;
-    border-bottom: 3px solid #0D47A1;
+    border: 3px solid #0D47A1;
 }
 
 footer#contact-info{
