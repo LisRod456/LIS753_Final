@@ -5,43 +5,43 @@ article figure img{
     margin-right: 20px;
     margin-top: 30px;
     margin-bottom: 20px;
-    border: 5px solid #3C7B19;
+    border: 5px solid #0D47A1;
     padding: 10px;
 }
 h1#article-title{
     text-align: center;
-    font-family: Helvetica;
+    font-family: Georgia;
     font-size: 24pt;
     color: white;
-    background-color: #3C7B19;
+    background-color: #0D47A1;
 }
 h2.section-header{
-    font-family: Helvetica;
+    font-family: Georgia;
     font-style: italic;
     font-size: 16pt;
     color: white;
-    background-color:#3C7B19;
+    background-color:#0D47A1;
     text-align: left;
 }
 p{
-    text-align: center;
-    font-family: Arial;
+    text-align: left;
+    font-family: Helvetica;
     color: black;
     font-size: 12pt;
-    background-color: #D9F3CA; 
+    background-color: #E4EAF4; 
 }
 ul li{
     text-align: left;
-    font-family: Arial;
+    font-family: Helvetica;
     color: black;
     font-size: 12pt;
-    background-color: #D9F3CA;
+    background-color: #E4EAF4;
 }
 ul li:first-child{
-    border-top: 3px solid #3C7B19;
+    border-top: 3px solid #0D47A1;
 }
 ul li:last-child{
-    border-bottom: 3px solid #3C7B19;
+    border-bottom: 3px solid #0D47A1;
 }
 footer#contact-info{
     color: white;
